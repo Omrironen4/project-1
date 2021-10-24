@@ -1,5 +1,5 @@
 # Project-1: Make It | Buy It
-Deployed Link: https://omrironen4.github.io/project-1/
+Deployed Link: https://omrironen4.github.io/Make-it-Buy-it/
 
 
 ## Description:
